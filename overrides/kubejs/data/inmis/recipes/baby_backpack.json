@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#X#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "tag": "c:leather"
+        },
+        "X": {
+            "tag": "c:wooden_chests"
+        }
+    },
+    "result": {
+        "item": "inmis:baby_backpack"
+    }
+}
