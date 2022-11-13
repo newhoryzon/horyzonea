@@ -42,7 +42,7 @@ waypointsDistanceExp:0
 waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
-arrowScale:1.5
+arrowScale:1.0
 arrowColour:1
 smoothDots:true
 worldMap:true
@@ -92,7 +92,7 @@ entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
 autoConvertWaypointDistanceToKmThreshold:10000
 waypointDistancePrecision:1
-mainDotSize:2
+mainDotSize:1
 partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
