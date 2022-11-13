@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "v v",
+        "viv",
+        " v "
+    ],
+    "key": {
+        "v": {
+            "item": "mythicmetals:quadrillum_ingot"
+        },
+        "i": {
+            "tag": "c:wooden_chests"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "count": 1
+    }
+}

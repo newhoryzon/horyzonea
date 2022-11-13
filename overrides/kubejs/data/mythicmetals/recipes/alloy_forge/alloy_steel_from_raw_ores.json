@@ -1,0 +1,23 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "tag": "c:raw_iron_ores"
+        },
+        {
+            "tag": "c:raw_manganese_ores"
+        }
+    ],
+    "output": {
+        "id": "ad_astra:steel_ingot",
+        "count": 1
+    },
+    "overrides": {
+        "2+": {
+            "id": "ad_astra:steel_ingot",
+            "count": 2
+        }
+    },
+    "min_forge_tier": 1,
+    "fuel_per_tick": 5
+}

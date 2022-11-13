@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mmm",
+        "m m"
+    ],
+    "key": {
+        "m": {
+            "item": "ad_astra:steel_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicmetals:steel_helmet",
+        "count": 1
+    }
+}
