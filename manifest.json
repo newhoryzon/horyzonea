@@ -87,7 +87,6 @@
       "required": true
     },
     {
-      "_type": "Resouces Pack",
       "_name": "Embellished Stone (Advancement Plaques)",
       "projectID": 503839,
       "fileID": 3836803,
@@ -106,7 +105,6 @@
       "required": true
     },
     {
-      "_type": "Resouces Pack",
       "_name": "xali's Enchanted Books",
       "projectID": 478165,
       "fileID": 3862732,
@@ -149,7 +147,6 @@
       "required": true
     },
     {
-      "_type": "Resouces Pack",
       "_name": "Create-Styled Raw Copper",
       "projectID": 656900,
       "fileID": 3922804,
@@ -282,14 +279,12 @@
       "required": true
     },
     {
-      "_type": "Resouces Pack",
       "_name": "Create Style Tom's Simple Storage",
       "projectID": 623512,
       "fileID": 3790744,
       "required": true
     },
     {
-      "_type": "Resouces Pack",
       "_name": "xali's Enhanced Biomes: River & Pond",
       "projectID": 534154,
       "fileID": 3661992,
@@ -1169,6 +1164,60 @@
       "_name": "Ingredient Extension API",
       "projectID": 557735,
       "fileID": 4023288,
+      "required": true
+    },
+    {
+      "_name": "Dave's Potioneering",
+      "projectID": 639653,
+      "fileID": 4066189,
+      "required": true
+    },
+    {
+      "_name": "Deeper and Darker",
+      "projectID": 659011,
+      "fileID": 4067921,
+      "required": true
+    },
+    {
+      "_name": "Vitalize",
+      "projectID": 659274,
+      "fileID": 4069065,
+      "required": true
+    },
+    {
+      "_name": "Better Echo Shards",
+      "projectID": 632573,
+      "fileID": 3849423,
+      "required": true
+    },
+    {
+      "_name": "Chubby Stuff! [Fabric]",
+      "projectID": 614985,
+      "fileID": 4049351,
+      "required": true
+    },
+    {
+      "_name": "Lanterns Belong on Walls",
+      "projectID": 596474,
+      "fileID": 3982098,
+      "required": true
+    },
+    {
+      "_name": "Literally Chunk Loader",
+      "projectID": 378183,
+      "fileID": 3893489,
+      "required": true
+    },
+    {
+      "_name": "Nullscape",
+      "projectID": 570354,
+      "fileID": 3862219,
+      "required": true
+    },
+    {
+      "_name": "Roughly Enough Loot Tables",
+      "projectID": 665532,
+      "fileID": 3963982,
       "required": true
     }
   ],
