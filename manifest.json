@@ -1005,12 +1005,6 @@
       "required": true
     },
     {
-      "_name": "Celib (FABRIC)",
-      "projectID": 414232,
-      "fileID": 3898938,
-      "required": true
-    },
-    {
       "_name": "Item Highlighter [Fabric]",
       "projectID": 541578,
       "fileID": 3921941,
@@ -1158,12 +1152,6 @@
       "_name": "Ingredient Extension API",
       "projectID": 557735,
       "fileID": 4023288,
-      "required": true
-    },
-    {
-      "_name": "Dave's Potioneering",
-      "projectID": 639653,
-      "fileID": 4061646,
       "required": true
     },
     {
