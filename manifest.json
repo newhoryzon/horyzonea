@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "HORYZONEA - 1.19.2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Zifiv",
   "files": [
     {
@@ -1080,12 +1080,6 @@
       "_name": "Mob Scarecrows",
       "projectID": 560657,
       "fileID": 3913685,
-      "required": true
-    },
-    {
-      "_name": "Flytre Lib (FlytreLib)",
-      "projectID": 444498,
-      "fileID": 3855226,
       "required": true
     },
     {
