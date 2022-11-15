@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "HORYZONEA",
+  "name": "HORYZONEA - 1.19.2",
   "version": "1.1.0",
   "author": "Zifiv",
   "files": [
@@ -119,7 +119,7 @@
     {
       "_name": "Better Compatibility Checker",
       "projectID": 551894,
-      "fileID": 4058404,
+      "fileID": 3904696,
       "required": true
     },
     {
@@ -255,6 +255,12 @@
       "required": true
     },
     {
+      "_name": "Auto Config Updated API",
+      "projectID": 373261,
+      "fileID": 3668220,
+      "required": true
+    },
+    {
       "_name": "More Villagers [Fabric]",
       "projectID": 486080,
       "fileID": 3843501,
@@ -330,12 +336,6 @@
       "_name": "Illuminations 🔥",
       "projectID": 292908,
       "fileID": 4073907,
-      "required": true
-    },
-    {
-      "_name": "Earthbounds | Fabric",
-      "projectID": 574411,
-      "fileID": 3878177,
       "required": true
     },
     {
@@ -659,7 +659,7 @@
     {
       "_name": "Another Furniture",
       "projectID": 610492,
-      "fileID": 4034009,
+      "fileID": 4034011,
       "required": true
     },
     {
@@ -677,7 +677,7 @@
     {
       "_name": "Chat Heads",
       "projectID": 407206,
-      "fileID": 3923445,
+      "fileID": 3923444,
       "required": true
     },
     {
@@ -731,7 +731,7 @@
     {
       "_name": "Sprout",
       "projectID": 565856,
-      "fileID": 4068726,
+      "fileID": 4068725,
       "required": true
     },
     {
@@ -1169,7 +1169,7 @@
     {
       "_name": "Dave's Potioneering",
       "projectID": 639653,
-      "fileID": 4066189,
+      "fileID": 4061646,
       "required": true
     },
     {
@@ -1218,6 +1218,18 @@
       "_name": "Roughly Enough Loot Tables",
       "projectID": 665532,
       "fileID": 3963982,
+      "required": true
+    },
+    {
+      "_name": "Moonlight Lib",
+      "projectID": 499980,
+      "fileID": 4083446,
+      "required": true
+    },
+    {
+      "_name": "Supplementaries",
+      "projectID": 412082,
+      "fileID": 4083519,
       "required": true
     }
   ],
