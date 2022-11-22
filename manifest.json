@@ -17,7 +17,7 @@
     {
       "_name": "Purpeille",
       "projectID": 609887,
-      "fileID": 4028695,
+      "fileID": 4092935,
       "required": true
     },
     {
@@ -185,7 +185,7 @@
     {
       "_name": "Towns and Towers",
       "projectID": 626761,
-      "fileID": 4086905,
+      "fileID": 4102867,
       "required": true
     },
     {
@@ -227,7 +227,7 @@
     {
       "_name": "Connectible Chains [Fabric]",
       "projectID": 415681,
-      "fileID": 3981229,
+      "fileID": 4095088,
       "required": true
     },
     {
@@ -323,7 +323,7 @@
     {
       "_name": "Immersive Weathering [FABRIC]",
       "projectID": 571035,
-      "fileID": 4087337,
+      "fileID": 4088890,
       "required": true
     },
     {
@@ -353,7 +353,7 @@
     {
       "_name": "Farmer's Delight [Fabric]",
       "projectID": 482834,
-      "fileID": 4061213,
+      "fileID": 4104108,
       "required": true
     },
     {
@@ -395,7 +395,7 @@
     {
       "_name": "BCLib",
       "projectID": 495191,
-      "fileID": 4027861,
+      "fileID": 4090904,
       "required": true
     },
     {
@@ -449,7 +449,7 @@
     {
       "_name": "Mod Menu",
       "projectID": 308702,
-      "fileID": 4066826,
+      "fileID": 4100232,
       "required": true
     },
     {
@@ -473,7 +473,7 @@
     {
       "_name": "Northern Compass",
       "projectID": 352301,
-      "fileID": 3830322,
+      "fileID": 4099851,
       "required": true
     },
     {
@@ -581,7 +581,7 @@
     {
       "_name": "Fabric API",
       "projectID": 306612,
-      "fileID": 4073289,
+      "fileID": 4104564,
       "required": true
     },
     {
@@ -593,7 +593,7 @@
     {
       "_name": "GeckoLib",
       "projectID": 388172,
-      "fileID": 4086233,
+      "fileID": 4096665,
       "required": true
     },
     {
@@ -617,7 +617,7 @@
     {
       "_name": "Ad Astra!",
       "projectID": 635042,
-      "fileID": 4021216,
+      "fileID": 4104092,
       "required": true
     },
     {
@@ -641,7 +641,7 @@
     {
       "_name": "Trinkets (Fabric)",
       "projectID": 341284,
-      "fileID": 3820928,
+      "fileID": 4100104,
       "required": true
     },
     {
@@ -653,7 +653,7 @@
     {
       "_name": "Visuality",
       "projectID": 521126,
-      "fileID": 4059540,
+      "fileID": 4092154,
       "required": true
     },
     {
@@ -665,7 +665,7 @@
     {
       "_name": "More Slabs, Stairs, and Walls",
       "projectID": 644005,
-      "fileID": 4050937,
+      "fileID": 4089950,
       "required": true
     },
     {
@@ -725,7 +725,7 @@
     {
       "_name": "The Graveyard (FABRIC)",
       "projectID": 514468,
-      "fileID": 4070821,
+      "fileID": 4100322,
       "required": true
     },
     {
@@ -767,7 +767,7 @@
     {
       "_name": "Friends&Foes (Fabric)",
       "projectID": 551364,
-      "fileID": 4060440,
+      "fileID": 4102736,
       "required": true
     },
     {
@@ -887,7 +887,7 @@
     {
       "_name": "BetterNether",
       "projectID": 311377,
-      "fileID": 4025997,
+      "fileID": 4090927,
       "required": true
     },
     {
@@ -911,7 +911,7 @@
     {
       "_name": "Falling Leaves (Fabric)",
       "projectID": 417510,
-      "fileID": 4058315,
+      "fileID": 4101831,
       "required": true
     },
     {
@@ -929,19 +929,19 @@
     {
       "_name": "Numismatic Overhaul",
       "projectID": 568316,
-      "fileID": 4060570,
+      "fileID": 4102744,
       "required": true
     },
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4044025,
+      "fileID": 4090702,
       "required": true
     },
     {
       "_name": "Iris Shaders",
       "projectID": 455508,
-      "fileID": 4023645,
+      "fileID": 4095268,
       "required": true
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "_name": "Vitalize",
       "projectID": 659274,
-      "fileID": 4069065,
+      "fileID": 4102436,
       "required": true
     },
     {
@@ -1205,13 +1205,43 @@
     {
       "_name": "Moonlight Lib",
       "projectID": 499980,
-      "fileID": 4083446,
+      "fileID": 4096608,
       "required": true
     },
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4083519,
+      "fileID": 4100718,
+      "required": true
+    },
+    {
+      "_name": "Dave's Potioneering",
+      "projectID": 639653,
+      "fileID": 4102283,
+      "required": true
+    },
+    {
+      "_name": "Gobber [FABRIC]",
+      "projectID": 427177,
+      "fileID": 4086199,
+      "required": true
+    },
+    {
+      "_name": "Charm fixer",
+      "projectID": 700906,
+      "fileID": 4081618,
+      "required": true
+    },
+    {
+      "_name": "Botarium",
+      "projectID": 704113,
+      "fileID": 4102427,
+      "required": true
+    },
+    {
+      "_name": "ResourceLib",
+      "projectID": 570073,
+      "fileID": 4100062,
       "required": true
     }
   ],
