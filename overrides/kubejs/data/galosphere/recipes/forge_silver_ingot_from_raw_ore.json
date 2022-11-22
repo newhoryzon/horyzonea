@@ -1,0 +1,23 @@
+{
+    "type": "alloy_forgery:forging",
+    "inputs": [
+        {
+            "item": "galosphere:raw_silver"
+        },
+        {
+            "item": "galosphere:raw_silver"
+        }
+    ],
+    "output": {
+        "id": "galosphere:silver_ingot",
+        "count": 3
+    },
+    "overrides": {
+        "2+": {
+            "id": "galosphere:silver_ingot",
+            "count": 4
+        }
+    },
+    "min_forge_tier": 1,
+    "fuel_per_tick": 5
+}
