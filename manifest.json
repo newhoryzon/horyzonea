@@ -1139,7 +1139,7 @@
     {
       "_name": "KubeJS",
       "projectID": 238086,
-      "fileID": 4085692,
+      "fileID": 4118101,
       "required": true
     },
     {
@@ -1242,6 +1242,30 @@
       "_name": "ResourceLib",
       "projectID": 570073,
       "fileID": 4100062,
+      "required": true
+    },
+    {
+      "_name": "Create Fabric",
+      "projectID": 624165,
+      "fileID": 4125637,
+      "required": true
+    },
+    {
+      "_name": "Create Crafts & Additions",
+      "projectID": 439890,
+      "fileID": 4120847,
+      "required": true
+    },
+    {
+      "_name": "Create Chunkloading",
+      "projectID": 494206,
+      "fileID": 4120425,
+      "required": true
+    },
+    {
+      "_name": "Applied Energistics 2",
+      "projectID": 223794,
+      "fileID": 4102140,
       "required": true
     }
   ],
