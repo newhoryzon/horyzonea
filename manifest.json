@@ -17,7 +17,7 @@
     {
       "_name": "Purpeille",
       "projectID": 609887,
-      "fileID": 4092935,
+      "fileID": 4104821,
       "required": true
     },
     {
@@ -47,7 +47,7 @@
     {
       "_name": "Continents",
       "projectID": 682515,
-      "fileID": 4024595,
+      "fileID": 4127115,
       "required": true
     },
     {
@@ -65,7 +65,7 @@
     {
       "_name": "Creatures From The Snow! [Fabric]",
       "projectID": 576413,
-      "fileID": 3995943,
+      "fileID": 4152939,
       "required": true
     },
     {
@@ -131,7 +131,7 @@
     {
       "_name": "Inventory HUD+",
       "projectID": 357540,
-      "fileID": 3903460,
+      "fileID": 4153723,
       "required": true
     },
     {
@@ -143,7 +143,7 @@
     {
       "_name": "Forge Config API Port",
       "projectID": 547434,
-      "fileID": 3960064,
+      "fileID": 4143545,
       "required": true
     },
     {
@@ -221,7 +221,7 @@
     {
       "_name": "Konkrete [Fabric]",
       "projectID": 416797,
-      "fileID": 4031709,
+      "fileID": 4136415,
       "required": true
     },
     {
@@ -251,7 +251,7 @@
     {
       "_name": "MVS - Moog's Voyager Structures",
       "projectID": 656977,
-      "fileID": 4025971,
+      "fileID": 4132460,
       "required": true
     },
     {
@@ -269,7 +269,7 @@
     {
       "_name": "Mythic Metals",
       "projectID": 410127,
-      "fileID": 4052807,
+      "fileID": 4118479,
       "required": true
     },
     {
@@ -281,7 +281,7 @@
     {
       "_name": "Enchantment Descriptions",
       "projectID": 250419,
-      "fileID": 3955029,
+      "fileID": 4162287,
       "required": true
     },
     {
@@ -323,7 +323,7 @@
     {
       "_name": "Immersive Weathering [FABRIC]",
       "projectID": 571035,
-      "fileID": 4088890,
+      "fileID": 4132420,
       "required": true
     },
     {
@@ -347,19 +347,19 @@
     {
       "_name": "Mouse Wheelie (Fabric)",
       "projectID": 317514,
-      "fileID": 3887535,
+      "fileID": 4160951,
       "required": true
     },
     {
       "_name": "Farmer's Delight [Fabric]",
       "projectID": 482834,
-      "fileID": 4104108,
+      "fileID": 4111426,
       "required": true
     },
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4012961,
+      "fileID": 4158090,
       "required": true
     },
     {
@@ -371,7 +371,7 @@
     {
       "_name": "BetterEnd",
       "projectID": 413596,
-      "fileID": 4026000,
+      "fileID": 4111393,
       "required": true
     },
     {
@@ -395,7 +395,7 @@
     {
       "_name": "BCLib",
       "projectID": 495191,
-      "fileID": 4090904,
+      "fileID": 4160242,
       "required": true
     },
     {
@@ -437,7 +437,7 @@
     {
       "_name": "Roughly Enough Professions (REP)",
       "projectID": 597988,
-      "fileID": 3958783,
+      "fileID": 4109337,
       "required": true
     },
     {
@@ -449,7 +449,7 @@
     {
       "_name": "Mod Menu",
       "projectID": 308702,
-      "fileID": 4100232,
+      "fileID": 4145207,
       "required": true
     },
     {
@@ -473,7 +473,7 @@
     {
       "_name": "Northern Compass",
       "projectID": 352301,
-      "fileID": 4099851,
+      "fileID": 4159483,
       "required": true
     },
     {
@@ -509,13 +509,13 @@
     {
       "_name": "Fabric Language Kotlin",
       "projectID": 308769,
-      "fileID": 4075244,
+      "fileID": 4123973,
       "required": true
     },
     {
       "_name": "TieredZ",
       "projectID": 615948,
-      "fileID": 4077930,
+      "fileID": 4132193,
       "required": true
     },
     {
@@ -527,7 +527,7 @@
     {
       "_name": "Incendium",
       "projectID": 591388,
-      "fileID": 3991685,
+      "fileID": 4105239,
       "required": true
     },
     {
@@ -575,13 +575,13 @@
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4075427,
+      "fileID": 4127339,
       "required": true
     },
     {
       "_name": "Fabric API",
       "projectID": 306612,
-      "fileID": 4104564,
+      "fileID": 4162908,
       "required": true
     },
     {
@@ -611,13 +611,13 @@
     {
       "_name": "Farsight [Fabric]",
       "projectID": 579192,
-      "fileID": 4017181,
+      "fileID": 4135258,
       "required": true
     },
     {
       "_name": "Ad Astra!",
       "projectID": 635042,
-      "fileID": 4104092,
+      "fileID": 4162320,
       "required": true
     },
     {
@@ -665,13 +665,13 @@
     {
       "_name": "More Slabs, Stairs, and Walls",
       "projectID": 644005,
-      "fileID": 4089950,
+      "fileID": 4144986,
       "required": true
     },
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4008826,
+      "fileID": 4111592,
       "required": true
     },
     {
@@ -719,7 +719,7 @@
     {
       "_name": "Blockus",
       "projectID": 312289,
-      "fileID": 4065167,
+      "fileID": 4132431,
       "required": true
     },
     {
@@ -743,19 +743,19 @@
     {
       "_name": "Bookshelf",
       "projectID": 228525,
-      "fileID": 4052855,
+      "fileID": 4153135,
       "required": true
     },
     {
       "_name": "playerAnimator",
       "projectID": 658587,
-      "fileID": 3955876,
+      "fileID": 4111522,
       "required": true
     },
     {
       "_name": "Spirit",
       "projectID": 495509,
-      "fileID": 4085261,
+      "fileID": 4132205,
       "required": true
     },
     {
@@ -767,7 +767,7 @@
     {
       "_name": "Friends&Foes (Fabric)",
       "projectID": 551364,
-      "fileID": 4102736,
+      "fileID": 4133218,
       "required": true
     },
     {
@@ -785,7 +785,7 @@
     {
       "_name": "Roughly Enough Items Fabric/Forge (REI)",
       "projectID": 310111,
-      "fileID": 4082318,
+      "fileID": 4167501,
       "required": true
     },
     {
@@ -821,7 +821,7 @@
     {
       "_name": "Lithium (Fabric)",
       "projectID": 360438,
-      "fileID": 4077220,
+      "fileID": 4151762,
       "required": true
     },
     {
@@ -839,7 +839,7 @@
     {
       "_name": "spark",
       "projectID": 361579,
-      "fileID": 4057112,
+      "fileID": 4159882,
       "required": true
     },
     {
@@ -869,7 +869,7 @@
     {
       "_name": "Architectury API (Fabric/Forge)",
       "projectID": 419699,
-      "fileID": 4040976,
+      "fileID": 4147351,
       "required": true
     },
     {
@@ -881,7 +881,7 @@
     {
       "_name": "Reese's Sodium Options",
       "projectID": 511319,
-      "fileID": 3946216,
+      "fileID": 4126247,
       "required": true
     },
     {
@@ -899,7 +899,7 @@
     {
       "_name": "Villager Names (Fabric)",
       "projectID": 416379,
-      "fileID": 4028134,
+      "fileID": 4110577,
       "required": true
     },
     {
@@ -941,13 +941,13 @@
     {
       "_name": "Iris Shaders",
       "projectID": 455508,
-      "fileID": 4095268,
+      "fileID": 4143801,
       "required": true
     },
     {
       "_name": "Polymorph (Fabric)",
       "projectID": 397434,
-      "fileID": 4084296,
+      "fileID": 4119085,
       "required": true
     },
     {
@@ -971,7 +971,7 @@
     {
       "_name": "Better Combat [Fabric & Forge]",
       "projectID": 639842,
-      "fileID": 4046678,
+      "fileID": 4141742,
       "required": true
     },
     {
@@ -983,13 +983,13 @@
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4075402,
+      "fileID": 4127323,
       "required": true
     },
     {
       "_name": "You're in Grave Danger",
       "projectID": 544912,
-      "fileID": 4063036,
+      "fileID": 4119976,
       "required": true
     },
     {
@@ -1001,7 +1001,7 @@
     {
       "_name": "InmisAddon",
       "projectID": 666672,
-      "fileID": 4024443,
+      "fileID": 4139885,
       "required": true
     },
     {
@@ -1025,7 +1025,7 @@
     {
       "_name": "More Geodes",
       "projectID": 437712,
-      "fileID": 4071249,
+      "fileID": 4162492,
       "required": true
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "_name": "Terralith",
       "projectID": 513688,
-      "fileID": 4024110,
+      "fileID": 4167132,
       "required": true
     },
     {
@@ -1151,13 +1151,13 @@
     {
       "_name": "Ingredient Extension API",
       "projectID": 557735,
-      "fileID": 4023288,
+      "fileID": 4134668,
       "required": true
     },
     {
       "_name": "Deeper and Darker",
       "projectID": 659011,
-      "fileID": 4067921,
+      "fileID": 4166675,
       "required": true
     },
     {
@@ -1185,12 +1185,6 @@
       "required": true
     },
     {
-      "_name": "Literally Chunk Loader",
-      "projectID": 378183,
-      "fileID": 3893489,
-      "required": true
-    },
-    {
       "_name": "Nullscape",
       "projectID": 570354,
       "fileID": 3862219,
@@ -1205,19 +1199,19 @@
     {
       "_name": "Moonlight Lib",
       "projectID": 499980,
-      "fileID": 4096608,
+      "fileID": 4167381,
       "required": true
     },
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4100718,
+      "fileID": 4132714,
       "required": true
     },
     {
       "_name": "Dave's Potioneering",
       "projectID": 639653,
-      "fileID": 4102283,
+      "fileID": 4160530,
       "required": true
     },
     {
@@ -1235,13 +1229,13 @@
     {
       "_name": "Botarium",
       "projectID": 704113,
-      "fileID": 4102427,
+      "fileID": 4131976,
       "required": true
     },
     {
-      "_name": "ResourceLib",
+      "_name": "Resourceful Lib",
       "projectID": 570073,
-      "fileID": 4100062,
+      "fileID": 4105041,
       "required": true
     },
     {
@@ -1265,7 +1259,31 @@
     {
       "_name": "Applied Energistics 2",
       "projectID": 223794,
-      "fileID": 4102140,
+      "fileID": 4136075,
+      "required": true
+    },
+    {
+      "_name": "Mythic Mounts",
+      "projectID": 517650,
+      "fileID": 4095954,
+      "required": true
+    },
+    {
+      "_name": "Applied Energistics 2 Wireless Terminals",
+      "projectID": 459929,
+      "fileID": 4062173,
+      "required": true
+    },
+    {
+      "_name": "Mine Cells - Dead Cells Mod",
+      "projectID": 618790,
+      "fileID": 4101883,
+      "required": true
+    },
+    {
+      "_name": "Resourceful Config",
+      "projectID": 714059,
+      "fileID": 4136064,
       "required": true
     }
   ],
