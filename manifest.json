@@ -347,7 +347,7 @@
     {
       "_name": "Mouse Wheelie (Fabric)",
       "projectID": 317514,
-      "fileID": 4160951,
+      "fileID": 4173550,
       "required": true
     },
     {
@@ -671,7 +671,7 @@
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4111592,
+      "fileID": 4171893,
       "required": true
     },
     {
@@ -845,7 +845,7 @@
     {
       "_name": "Ecologics",
       "projectID": 570463,
-      "fileID": 3987879,
+      "fileID": 4171284,
       "required": true
     },
     {
@@ -1121,7 +1121,7 @@
     {
       "_name": "Global Packs",
       "projectID": 317134,
-      "fileID": 3950163,
+      "fileID": 4175600,
       "required": true
     },
     {
@@ -1139,7 +1139,7 @@
     {
       "_name": "KubeJS",
       "projectID": 238086,
-      "fileID": 4118101,
+      "fileID": 4172185,
       "required": true
     },
     {
@@ -1199,13 +1199,13 @@
     {
       "_name": "Moonlight Lib",
       "projectID": 499980,
-      "fileID": 4167381,
+      "fileID": 4174745,
       "required": true
     },
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4132714,
+      "fileID": 4172002,
       "required": true
     },
     {
