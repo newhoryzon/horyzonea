@@ -1,14 +1,26 @@
 // priority: 0
 
+var sleep = (millis) => {
+    var date = new Date();
+    var curDate = null;
+    do { curDate = new Date(); }
+    while(curDate - date < millis);
+}
+
 var deleteItemTags = (event, tweaks) => {
-    tweaks.toDelete.items.tags.forEach(tag => { event.removeAll(tag); event.removeAllTagsFrom(tag); });
-    tweaks.toDelete.items.list.forEach(thing => event.removeAllTagsFrom(thing));
-    tweaks.toDelete.blocks.list.forEach(thing => event.removeAllTagsFrom(thing));
+    let removeAllFrom = [];
+    removeAllFrom.concat(tweaks.toDelete.items.list, tweaks.toDelete.blocks.list)
+
+    tweaks.toDelete.items.tags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
+    event.removeAllTagsFrom(removeAllFrom);
 };
 
 var deleteBlockTags = (event, tweaks) => {
-    tweaks.toDelete.blocks.tags.forEach(tag => { event.removeAll(tag); event.removeAllTagsFrom(tag); });
-    tweaks.toDelete.blocks.list.forEach(thing => event.removeAllTagsFrom(thing));
+    let removeAllFrom = [];
+    removeAllFrom.concat(tweaks.toDelete.blocks.list)
+    tweaks.toDelete.blocks.tags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
+    sleep(1000);
+    event.removeAllTagsFrom(removeAllFrom);
 };
 
 var deleteRecipes = (event, tweaks) => {
