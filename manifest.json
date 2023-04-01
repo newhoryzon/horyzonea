@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "fabric-0.14.14",
+        "id": "fabric-0.14.18",
         "primary": true
       }
     ]
@@ -11,18 +11,19 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "HORYZONEA - 1.19.2",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "author": "Zifiv",
   "files": [
     {
       "_name": "Fabric API",
       "_type": "API",
       "projectID": 306612,
-      "fileID": 4373739,
+      "fileID": 4438705,
       "required": true
     },
     {
       "_name": "Architectury API (Fabric/Forge)",
+      "_type": "API",
       "projectID": 419699,
       "fileID": 4384405,
       "required": true
@@ -44,7 +45,7 @@
       "_name": "Bookshelf",
       "_type": "API",
       "projectID": 228525,
-      "fileID": 4354813,
+      "fileID": 4426590,
       "required": true
     },
     {
@@ -72,13 +73,13 @@
       "_name": "Fabric Language Kotlin",
       "_type": "API",
       "projectID": 308769,
-      "fileID": 4378167,
+      "fileID": 4438609,
       "required": true
     },
     {
       "_name": "GeckoLib",
       "projectID": 388172,
-      "fileID": 4395589,
+      "fileID": 4407239,
       "required": true
     },
     {
@@ -93,6 +94,20 @@
       "_type": "API",
       "projectID": 557735,
       "fileID": 4134668,
+      "required": true
+    },
+    {
+      "_name": "LibZ",
+      "_type": "API",
+      "projectID": 841617,
+      "fileID": 4454838,
+      "required": true
+    },
+    {
+      "_name": "Moonlight Lib",
+      "_type": "API",
+      "projectID": 499980,
+      "fileID": 4460382,
       "required": true
     },
     {
@@ -113,14 +128,14 @@
       "_name": "Resourceful Config",
       "_type": "API",
       "projectID": 714059,
-      "fileID": 4394158,
+      "fileID": 4444200,
       "required": true
     },
     {
       "_name": "Resourceful Lib",
       "_type": "API",
       "projectID": 570073,
-      "fileID": 4397922,
+      "fileID": 4434137,
       "required": true
     },
     {
@@ -128,13 +143,6 @@
       "_type": "API",
       "projectID": 416294,
       "fileID": 4085694,
-      "required": true
-    },
-    {
-      "_name": "Moonlight Lib",
-      "_type": "API",
-      "projectID": 499980,
-      "fileID": 4393343,
       "required": true
     },
     {
@@ -148,7 +156,7 @@
       "_name": "YUNG's API (Fabric)",
       "_type": "API",
       "projectID": 421649,
-      "fileID": 4400492,
+      "fileID": 4441684,
       "required": true
     },
 
@@ -237,7 +245,7 @@
     {
       "_name": "Ad Astra!",
       "projectID": 635042,
-      "fileID": 4390111,
+      "fileID": 4452051,
       "required": true
     },
     {
@@ -255,7 +263,7 @@
     {
       "_name": "Alloy Forgery",
       "projectID": 438718,
-      "fileID": 4073356,
+      "fileID": 4403698,
       "required": true
     },
     {
@@ -291,7 +299,7 @@
     {
       "_name": "AttributeFix",
       "projectID": 280510,
-      "fileID": 3963621,
+      "fileID": 4436597,
       "required": true
     },
     {
@@ -327,7 +335,7 @@
     {
       "_name": "Better Combat [Fabric & Forge]",
       "projectID": 639842,
-      "fileID": 4357587,
+      "fileID": 4428884,
       "required": true
     },
     {
@@ -357,7 +365,7 @@
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4378075,
+      "fileID": 4430483,
       "required": true
     },
     {
@@ -375,7 +383,7 @@
     {
       "_name": "Blockus",
       "projectID": 312289,
-      "fileID": 4132431,
+      "fileID": 4458022,
       "required": true
     },
     {
@@ -393,7 +401,13 @@
     {
       "_name": "Chat Heads",
       "projectID": 407206,
-      "fileID": 4304208,
+      "fileID": 4459212,
+      "required": true
+    },
+    {
+      "_name": "Chipped",
+      "projectID": 456956,
+      "fileID": 4463478,
       "required": true
     },
     {
@@ -429,7 +443,7 @@
     {
       "_name": "Continuity",
       "projectID": 531351,
-      "fileID": 3927270,
+      "fileID": 4441032,
       "required": true
     },
     {
@@ -457,9 +471,15 @@
       "required": true
     },
     {
+      "_name": "CTM Refabricated",
+      "projectID": 633997,
+      "fileID": 3834086,
+      "required": true
+    },
+    {
       "_name": "Custom Entity Models (CEM)",
       "projectID": 477078,
-      "fileID": 3821136,
+      "fileID": 4412079,
       "required": true
     },
     {
@@ -507,7 +527,7 @@
     {
       "_name": "Eating Animation [Fabric]",
       "projectID": 527023,
-      "fileID": 3898689,
+      "fileID": 4413888,
       "required": true
     },
     {
@@ -535,12 +555,6 @@
       "required": true
     },
     {
-      "_name": "More Geodes",
-      "projectID": 437712,
-      "fileID": 4366069,
-      "required": true
-    },
-    {
       "_name": "Enchantment Descriptions",
       "projectID": 250419,
       "fileID": 4277355,
@@ -549,7 +563,7 @@
     {
       "_name": "Entity Culling Fabric/Forge",
       "projectID": 448233,
-      "fileID": 3823508,
+      "fileID": 4404950,
       "required": true
     },
     {
@@ -567,7 +581,7 @@
     {
       "_name": "Fabric Waystones",
       "projectID": 410902,
-      "fileID": 4024931,
+      "fileID": 4426434,
       "required": true
     },
     {
@@ -621,7 +635,7 @@
     {
       "_name": "Handcrafted",
       "projectID": 538214,
-      "fileID": 4282207,
+      "fileID": 4437458,
       "required": true
     },
     {
@@ -657,7 +671,7 @@
     {
       "_name": "InmisAddon",
       "projectID": 666672,
-      "fileID": 4139885,
+      "fileID": 4460813,
       "required": true
     },
     {
@@ -715,9 +729,15 @@
       "required": true
     },
     {
+      "_name": "Lil' Wings",
+      "projectID": 561277,
+      "fileID": 4325684,
+      "required": true
+    },
+    {
       "_name": "Lithium (Fabric)",
       "projectID": 360438,
-      "fileID": 4151762,
+      "fileID": 4439700,
       "required": true
     },
     {
@@ -729,7 +749,7 @@
     {
       "_name": "Mine Cells - Dead Cells Mod",
       "projectID": 618790,
-      "fileID": 4395775,
+      "fileID": 4412616,
       "required": true
     },
     {
@@ -742,6 +762,12 @@
       "_name": "Mod Menu",
       "projectID": 308702,
       "fileID": 4145207,
+      "required": true
+    },
+    {
+      "_name": "More Geodes",
+      "projectID": 437712,
+      "fileID": 4366069,
       "required": true
     },
     {
@@ -783,7 +809,7 @@
     {
       "_name": "Mythic Metals",
       "projectID": 410127,
-      "fileID": 4376909,
+      "fileID": 4441526,
       "required": true
     },
     {
@@ -843,7 +869,7 @@
     {
       "_name": "playerAnimator",
       "projectID": 658587,
-      "fileID": 4357569,
+      "fileID": 4418150,
       "required": true
     },
     {
@@ -867,7 +893,7 @@
     {
       "_name": "Raised",
       "projectID": 570368,
-      "fileID": 4084122,
+      "fileID": 4457441,
       "required": true
     },
     {
@@ -879,7 +905,7 @@
     {
       "_name": "Roughly Enough Items Fabric/Forge (REI)",
       "projectID": 310111,
-      "fileID": 4401128,
+      "fileID": 4440718,
       "required": true
     },
     {
@@ -891,7 +917,7 @@
     {
       "_name": "Roughly Enough Professions (REP)",
       "projectID": 597988,
-      "fileID": 4109337,
+      "fileID": 4427279,
       "required": true
     },
     {
@@ -933,13 +959,13 @@
     {
       "_name": "spark",
       "projectID": 361579,
-      "fileID": 4381168,
+      "fileID": 4443554,
       "required": true
     },
     {
       "_name": "Spirit",
       "projectID": 495509,
-      "fileID": 4132205,
+      "fileID": 4427184,
       "required": true
     },
     {
@@ -969,7 +995,7 @@
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4398680,
+      "fileID": 4460347,
       "required": true
     },
     {
@@ -987,13 +1013,13 @@
     {
       "_name": "TieredZ",
       "projectID": 615948,
-      "fileID": 4392900,
+      "fileID": 4460952,
       "required": true
     },
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4395911,
+      "fileID": 4451666,
       "required": true
     },
     {
@@ -1029,7 +1055,7 @@
     {
       "_name": "Visuality",
       "projectID": 521126,
-      "fileID": 4092154,
+      "fileID": 4418106,
       "required": true
     },
     {
@@ -1053,19 +1079,19 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4368863,
+      "fileID": 4463702,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4381123,
+      "fileID": 4454638,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4381144,
+      "fileID": 4424635,
       "required": true
     },
     {
@@ -1077,7 +1103,7 @@
     {
       "_name": "YUNG's Better Desert Temples (Fabric)",
       "projectID": 631020,
-      "fileID": 4031661,
+      "fileID": 4419321,
       "required": true
     },
     {
