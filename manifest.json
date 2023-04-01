@@ -77,6 +77,13 @@
       "required": true
     },
     {
+      "_name": "Iris & Oculus Flywheel Compat",
+      "_type": "API",
+      "projectID": 659897,
+      "fileID": 4421346,
+      "required": true
+    },
+    {
       "_name": "GeckoLib",
       "projectID": 388172,
       "fileID": 4407239,
@@ -426,6 +433,12 @@
       "_name": "CleanCut",
       "projectID": 392805,
       "fileID": 3950652,
+      "required": true
+    },
+    {
+      "_name": "Cobblemon",
+      "projectID": 687131,
+      "fileID": 4468330,
       "required": true
     },
     {
