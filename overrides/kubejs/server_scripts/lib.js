@@ -1,40 +1,38 @@
 // priority: 0
 
-class DeleteTweak {
-    constructor(name) {
-        this.name = name;
-        this.filters = [];
-        this.itemTags = [];
-        this.items = [];
-        this.blockTags = [];
-        this.blocks = [];
-    }
+function DeleteTweak(name) {
+    this.name = name;
+    this.filters = [];
+    this.itemTags = [];
+    this.items = [];
+    this.blockTags = [];
+    this.blocks = [];
 
-    filters(filters) {
+    this.filters = (filters) => {
         this.filters = filters;
         return this;
-    }
-
-    itemTags(itemTags) {
+    };
+    
+    this.itemTags = (itemTags) => {
         this.itemTags = itemTags;
         return this;
-    }
-
-    items(items) {
+    };
+    
+    this.items = (items) => {
         this.items = items;
         return this;
-    }
-
-    blockTags(blockTags) {
+    };
+    
+    this.blockTags = (blockTags) => {
         this.blockTags = blockTags;
         return this;
-    }
-
-    blocks(blocks) {
+    };
+    
+    this.blocks = (blocks) => {
         this.blocks = blocks;
         return this;
-    }
-}
+    };
+};
 
 var deleteItemTags = (event, tweaks) => {
     let removeAllFrom = [];

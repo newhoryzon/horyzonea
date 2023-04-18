@@ -24,12 +24,8 @@ var tweaks = [
         .blocks(['mythicmetals:steel_blocks'])
 ];
 
-var silverTweakRecipes = (event) => {
-};
-
 var steelTweakRecipes = (event) => {
     // Remove Mythic metal Steel recipes
-    deleteRecipes(event, steel_tweaks);
     event.remove({ mod: 'mythicmetals', output: 'minecraft:flint_and_steel' });
 
     // Remove Ad astra smelting and blasting default recipes
@@ -44,21 +40,21 @@ var steelTweakRecipes = (event) => {
 };
 
 ServerEvents.tags('item', event => {
-    deleteItemTags(event, tweaks);
     event.add('horyzonea:workbenchs', ['#c:workbench', 'minecraft:crafting_table']);
+    deleteItemTags(event, tweaks);
 });
 
 ServerEvents.tags('block', event => {
-    deleteBlockTags(event, tweaks);
     event.add('horyzonea:workbenchs', ['#c:workbench', 'minecraft:crafting_table']);
+    deleteBlockTags(event, tweaks);
 });
 
 ServerEvents.recipes(event => {
-    deleteRecipes(event, tweaks);
     event.remove({ type: 'minecraft:crafting_shaped', output: 'create:andesite_alloy' });
     [{ tag: 'c:iron_nuggets' }, { tag: 'c:zinc_nuggets' }].forEach(nugget =>
         alloying(event, [{ item: 'minecraft:andesite' }, { item: 'minecraft:andesite' }, nugget, nugget], 'create:andesite_alloy', 2, [{ tier: '2+', count: 3 }]));
     
-    silverTweakRecipes(event);
     steelTweakRecipes(event);
+    
+    deleteRecipes(event, tweaks);
 });
