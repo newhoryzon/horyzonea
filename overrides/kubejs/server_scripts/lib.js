@@ -1,39 +1,74 @@
 // priority: 0
 
-var sleep = (millis) => {
-    var date = new Date();
-    var curDate = null;
-    do { curDate = new Date(); }
-    while(curDate - date < millis);
+class DeleteTweak {
+    constructor(name) {
+        this.name = name;
+        this.filters = [];
+        this.itemTags = [];
+        this.items = [];
+        this.blockTags = [];
+        this.blocks = [];
+    }
+
+    filters(filters) {
+        this.filters = filters;
+        return this;
+    }
+
+    itemTags(itemTags) {
+        this.itemTags = itemTags;
+        return this;
+    }
+
+    items(items) {
+        this.items = items;
+        return this;
+    }
+
+    blockTags(blockTags) {
+        this.blockTags = blockTags;
+        return this;
+    }
+
+    blocks(blocks) {
+        this.blocks = blocks;
+        return this;
+    }
 }
 
 var deleteItemTags = (event, tweaks) => {
     let removeAllFrom = [];
-    removeAllFrom.concat(tweaks.toDelete.items.list, tweaks.toDelete.blocks.list)
+    tweaks.forEach(tweak => {
+        removeAllFrom.concat(tweak.items, tweak.blocks)
+        tweak.itemTags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
+    });
 
-    tweaks.toDelete.items.tags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
     event.removeAllTagsFrom(removeAllFrom);
 };
 
 var deleteBlockTags = (event, tweaks) => {
     let removeAllFrom = [];
-    removeAllFrom.concat(tweaks.toDelete.blocks.list)
-    tweaks.toDelete.blocks.tags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
-    sleep(1000);
+    tweaks.forEach(tweak => {
+        removeAllFrom.concat(tweak.blocks)
+        tweak.blockTags.forEach(tag => { event.removeAll(tag); removeAllFrom.push('#' + tag); });
+    });
+
     event.removeAllTagsFrom(removeAllFrom);
 };
 
 var deleteRecipes = (event, tweaks) => {
-    tweaks.toDelete.filters.forEach(filter => {
-        tweaks.toDelete.items.list.forEach(item => {
-            let itemFilter = Object.assign({}, filter);
-            itemFilter.output = item;
-            event.remove(itemFilter);
-        });
-        tweaks.toDelete.blocks.list.forEach(block => {
-            let blockFilter = Object.assign({}, filter);
-            blockFilter.output = block;
-            event.remove(blockFilter);
+    tweaks.forEach(tweak => {
+        tweak.filters.forEach(filter => {
+            tweak.items.forEach(item => {
+                let itemFilter = Object.assign({}, filter);
+                itemFilter.output = item;
+                event.remove(itemFilter);
+            });
+            tweak.blocks.forEach(block => {
+                let blockFilter = Object.assign({}, filter);
+                blockFilter.output = block;
+                event.remove(blockFilter);
+            });
         });
     });
 };
