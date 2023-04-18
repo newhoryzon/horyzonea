@@ -25,11 +25,12 @@
       "_name": "Architectury API (Fabric/Forge)",
       "_type": "API",
       "projectID": 419699,
-      "fileID": 4384405,
+      "fileID": 4476083,
       "required": true
     },
     {
       "_name": "AutoTag",
+      "_type": "API",
       "projectID": 618433,
       "fileID": 3989400,
       "required": true
@@ -73,7 +74,7 @@
       "_name": "Fabric Language Kotlin",
       "_type": "API",
       "projectID": 308769,
-      "fileID": 4438609,
+      "fileID": 4466959,
       "required": true
     },
     {
@@ -114,7 +115,7 @@
       "_name": "Moonlight Lib",
       "_type": "API",
       "projectID": 499980,
-      "fileID": 4460382,
+      "fileID": 4491268,
       "required": true
     },
     {
@@ -142,14 +143,14 @@
       "_name": "Resourceful Lib",
       "_type": "API",
       "projectID": 570073,
-      "fileID": 4434137,
+      "fileID": 4477754,
       "required": true
     },
     {
       "_name": "Rhino",
       "_type": "API",
       "projectID": 416294,
-      "fileID": 4085694,
+      "fileID": 4476055,
       "required": true
     },
     {
@@ -270,7 +271,7 @@
     {
       "_name": "Alloy Forgery",
       "projectID": 438718,
-      "fileID": 4403698,
+      "fileID": 4487529,
       "required": true
     },
     {
@@ -307,6 +308,12 @@
       "_name": "AttributeFix",
       "projectID": 280510,
       "fileID": 4436597,
+      "required": true
+    },
+    {
+      "_name": "Auto Third Person",
+      "projectID": 297818,
+      "fileID": 3922616,
       "required": true
     },
     {
@@ -400,6 +407,12 @@
       "required": true
     },
     {
+      "_name": "Brazier",
+      "projectID": 402616,
+      "fileID": 3922677,
+      "required": true
+    },
+    {
       "_name": "Charm of Undying (Fabric)",
       "projectID": 395547,
       "fileID": 4346535,
@@ -415,12 +428,6 @@
       "_name": "Chipped",
       "projectID": 456956,
       "fileID": 4463478,
-      "required": true
-    },
-    {
-      "_name": "Chubby Stuff! [Fabric]",
-      "projectID": 614985,
-      "fileID": 4049351,
       "required": true
     },
     {
@@ -468,7 +475,7 @@
     {
       "_name": "Create Fabric",
       "projectID": 624165,
-      "fileID": 4394141,
+      "fileID": 4478779,
       "required": true
     },
     {
@@ -486,7 +493,7 @@
     {
       "_name": "CTM Refabricated",
       "projectID": 633997,
-      "fileID": 3834086,
+      "fileID": 4467316,
       "required": true
     },
     {
@@ -652,6 +659,12 @@
       "required": true
     },
     {
+      "_name": "Hwyla Addon Horse Info",
+      "projectID": 390027,
+      "fileID": 3836677,
+      "required": true
+    },
+    {
       "_name": "Illuminations 🔥",
       "projectID": 292908,
       "fileID": 4073907,
@@ -660,7 +673,7 @@
     {
       "_name": "Immersive Weathering [FABRIC]",
       "projectID": 571035,
-      "fileID": 4401358,
+      "fileID": 4478199,
       "required": true
     },
     {
@@ -673,6 +686,12 @@
       "_name": "Indium",
       "projectID": 459496,
       "fileID": 3957480,
+      "required": true
+    },
+    {
+      "_name": "Infinite Music",
+      "projectID": 291713,
+      "fileID": 4167655,
       "required": true
     },
     {
@@ -724,12 +743,6 @@
       "required": true
     },
     {
-      "_name": "Lanterns Belong on Walls",
-      "projectID": 596474,
-      "fileID": 3982098,
-      "required": true
-    },
-    {
       "_name": "LazyDFU",
       "projectID": 433518,
       "fileID": 3821870,
@@ -762,7 +775,7 @@
     {
       "_name": "Mine Cells - Dead Cells Mod",
       "projectID": 618790,
-      "fileID": 4412616,
+      "fileID": 4489270,
       "required": true
     },
     {
@@ -786,7 +799,7 @@
     {
       "_name": "MVS - Moog's Voyager Structures",
       "projectID": 656977,
-      "fileID": 4132460,
+      "fileID": 4491858,
       "required": true
     },
     {
@@ -835,6 +848,12 @@
       "_name": "Northern Compass",
       "projectID": 352301,
       "fileID": 4159483,
+      "required": true
+    },
+    {
+      "_name": "Now Playing",
+      "projectID": 398652,
+      "fileID": 3949861,
       "required": true
     },
     {
@@ -946,6 +965,12 @@
       "required": true
     },
     {
+      "_name": "Runes [Fabric]",
+      "projectID": 775518,
+      "fileID": 4426242,
+      "required": true
+    },
+    {
       "_name": "ShulkerBoxTooltip [Fabric/Forge]",
       "projectID": 315811,
       "fileID": 4054090,
@@ -973,6 +998,18 @@
       "_name": "spark",
       "projectID": 361579,
       "fileID": 4443554,
+      "required": true
+    },
+    {
+      "_name": "Spell Engine",
+      "projectID": 807653,
+      "fileID": 4428928,
+      "required": true
+    },
+    {
+      "_name": "Spell Power Attributes [Fabric]",
+      "projectID": 771265,
+      "fileID": 4428918,
       "required": true
     },
     {
@@ -1008,7 +1045,7 @@
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4460347,
+      "fileID": 4488277,
       "required": true
     },
     {
@@ -1026,13 +1063,13 @@
     {
       "_name": "TieredZ",
       "projectID": 615948,
-      "fileID": 4460952,
+      "fileID": 4485433,
       "required": true
     },
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4451666,
+      "fileID": 4473337,
       "required": true
     },
     {
@@ -1078,6 +1115,12 @@
       "required": true
     },
     {
+      "_name": "Wizards [Fabric]",
+      "projectID": 734325,
+      "fileID": 4487628,
+      "required": true
+    },
+    {
       "_name": "WMITAF",
       "projectID": 547358,
       "fileID": 4049590,
@@ -1092,19 +1135,19 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4463702,
+      "fileID": 4494622,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4454638,
+      "fileID": 4470056,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4424635,
+      "fileID": 4470076,
       "required": true
     },
     {
