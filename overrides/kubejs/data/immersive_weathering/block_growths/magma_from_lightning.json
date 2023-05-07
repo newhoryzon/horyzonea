@@ -1,0 +1,29 @@
+{
+    "tick_sources": [
+      "lightning_strike"
+    ],
+    "target_self": true,
+    "growth_chance": 0,
+    "growth_for_face": [
+      {
+        "direction": "up",
+        "weight": 1,
+        "growth": [
+          {
+            "data": {
+              "block": {
+                "Name": "minecraft:magma_block"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "owners": "minecraft:magma_block",
+    "replacing_target": {
+      "block": "minecraft:magma_block",
+      "predicate_type": "minecraft:block_match"
+    }
+  }
+  
