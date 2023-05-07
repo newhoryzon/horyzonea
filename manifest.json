@@ -25,7 +25,7 @@
       "_name": "Architectury API (Fabric/Forge)",
       "_type": "API",
       "projectID": 419699,
-      "fileID": 4476083,
+      "fileID": 4521272,
       "required": true
     },
     {
@@ -74,7 +74,7 @@
       "_name": "Fabric Language Kotlin",
       "_type": "API",
       "projectID": 308769,
-      "fileID": 4466959,
+      "fileID": 4507659,
       "required": true
     },
     {
@@ -349,7 +349,7 @@
     {
       "_name": "Better Combat [Fabric & Forge]",
       "projectID": 639842,
-      "fileID": 4428884,
+      "fileID": 4522422,
       "required": true
     },
     {
@@ -379,7 +379,7 @@
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4430483,
+      "fileID": 4513774,
       "required": true
     },
     {
@@ -415,13 +415,13 @@
     {
       "_name": "Charm of Undying (Fabric)",
       "projectID": 395547,
-      "fileID": 4346535,
+      "fileID": 4521331,
       "required": true
     },
     {
       "_name": "Chat Heads",
       "projectID": 407206,
-      "fileID": 4459212,
+      "fileID": 4520413,
       "required": true
     },
     {
@@ -475,7 +475,7 @@
     {
       "_name": "Create Fabric",
       "projectID": 624165,
-      "fileID": 4478779,
+      "fileID": 4507543,
       "required": true
     },
     {
@@ -571,7 +571,7 @@
     {
       "_name": "Elytra Slot (Fabric)",
       "projectID": 397903,
-      "fileID": 4375451,
+      "fileID": 4519260,
       "required": true
     },
     {
@@ -775,7 +775,7 @@
     {
       "_name": "Mine Cells - Dead Cells Mod",
       "projectID": 618790,
-      "fileID": 4489270,
+      "fileID": 4501789,
       "required": true
     },
     {
@@ -793,13 +793,13 @@
     {
       "_name": "More Geodes",
       "projectID": 437712,
-      "fileID": 4366069,
+      "fileID": 4515388,
       "required": true
     },
     {
       "_name": "MVS - Moog's Voyager Structures",
       "projectID": 656977,
-      "fileID": 4491858,
+      "fileID": 4514602,
       "required": true
     },
     {
@@ -829,7 +829,7 @@
     {
       "_name": "Mythic Mounts",
       "projectID": 517650,
-      "fileID": 4095954,
+      "fileID": 4507470,
       "required": true
     },
     {
@@ -841,7 +841,7 @@
     {
       "_name": "Naturalist",
       "projectID": 627986,
-      "fileID": 3930808,
+      "fileID": 4500627,
       "required": true
     },
     {
@@ -967,7 +967,7 @@
     {
       "_name": "Runes [Fabric]",
       "projectID": 775518,
-      "fileID": 4426242,
+      "fileID": 4514193,
       "required": true
     },
     {
@@ -997,25 +997,25 @@
     {
       "_name": "spark",
       "projectID": 361579,
-      "fileID": 4443554,
+      "fileID": 4505310,
       "required": true
     },
     {
       "_name": "Spell Engine",
       "projectID": 807653,
-      "fileID": 4428928,
+      "fileID": 4514170,
       "required": true
     },
     {
       "_name": "Spell Power Attributes [Fabric]",
       "projectID": 771265,
-      "fileID": 4428918,
+      "fileID": 4515384,
       "required": true
     },
     {
       "_name": "Spirit",
       "projectID": 495509,
-      "fileID": 4427184,
+      "fileID": 4523731,
       "required": true
     },
     {
@@ -1045,7 +1045,7 @@
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4488277,
+      "fileID": 4521851,
       "required": true
     },
     {
@@ -1063,13 +1063,13 @@
     {
       "_name": "TieredZ",
       "projectID": 615948,
-      "fileID": 4485433,
+      "fileID": 4510628,
       "required": true
     },
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4473337,
+      "fileID": 4520245,
       "required": true
     },
     {
@@ -1117,7 +1117,7 @@
     {
       "_name": "Wizards [Fabric]",
       "projectID": 734325,
-      "fileID": 4487628,
+      "fileID": 4514246,
       "required": true
     },
     {
@@ -1135,25 +1135,25 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4494622,
+      "fileID": 4523581,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4470056,
+      "fileID": 4492931,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4470076,
+      "fileID": 4492956,
       "required": true
     },
     {
       "_name": "You're in Grave Danger",
       "projectID": 544912,
-      "fileID": 4357427,
+      "fileID": 4503995,
       "required": true
     },
     {
