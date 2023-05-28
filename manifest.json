@@ -115,7 +115,7 @@
       "_name": "Moonlight Lib",
       "_type": "API",
       "projectID": 499980,
-      "fileID": 4491268,
+      "fileID": 4545413,
       "required": true
     },
     {
@@ -178,10 +178,17 @@
       "required": true
     },
     {
-      "_name": "Create-Styled Raw Copper",
+      "_name": "Created & Updated",
       "_type": "RSC",
       "projectID": 656900,
-      "fileID": 4344863,
+      "fileID": 4550847,
+      "required": true
+    },
+    {
+      "_name": "Create Styled Ad Astra Plates",
+      "_type": "RSC",
+      "projectID": 862875,
+      "fileID": 4541118,
       "required": true
     },
     {
@@ -209,7 +216,7 @@
       "_name": "Enchanted Tools",
       "_type": "RSC",
       "projectID": 413810,
-      "fileID": 4356312,
+      "fileID": 4474791,
       "required": true
     },
     {
@@ -220,10 +227,10 @@
       "required": true
     },
     {
-      "_name": "Create Style Tom's Simple Storage",
+      "_name": "Tom's Create Storage",
       "_type": "RSC",
-      "projectID": 623512,
-      "fileID": 3790744,
+      "projectID": 776419,
+      "fileID": 4296160,
       "required": true
     },
     {
@@ -295,7 +302,7 @@
     {
       "_name": "Architect's Palette [FABRIC]",
       "projectID": 487364,
-      "fileID": 3845046,
+      "fileID": 4546035,
       "required": true
     },
     {
@@ -349,7 +356,7 @@
     {
       "_name": "Better Combat [Fabric & Forge]",
       "projectID": 639842,
-      "fileID": 4522422,
+      "fileID": 4534620,
       "required": true
     },
     {
@@ -379,13 +386,13 @@
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4513774,
+      "fileID": 4551864,
       "required": true
     },
     {
       "_name": "BetterEnd",
       "projectID": 413596,
-      "fileID": 4393109,
+      "fileID": 4539997,
       "required": true
     },
     {
@@ -397,7 +404,7 @@
     {
       "_name": "Blockus",
       "projectID": 312289,
-      "fileID": 4458022,
+      "fileID": 4529161,
       "required": true
     },
     {
@@ -475,13 +482,13 @@
     {
       "_name": "Create Fabric",
       "projectID": 624165,
-      "fileID": 4507543,
+      "fileID": 4537370,
       "required": true
     },
     {
       "_name": "Create Crafts & Additions",
       "projectID": 439890,
-      "fileID": 4391443,
+      "fileID": 4528919,
       "required": true
     },
     {
@@ -797,12 +804,6 @@
       "required": true
     },
     {
-      "_name": "MVS - Moog's Voyager Structures",
-      "projectID": 656977,
-      "fileID": 4514602,
-      "required": true
-    },
-    {
       "_name": "More Villagers [Fabric]",
       "projectID": 486080,
       "fileID": 3843501,
@@ -823,7 +824,7 @@
     {
       "_name": "Mouse Wheelie (Fabric)",
       "projectID": 317514,
-      "fileID": 4318086,
+      "fileID": 4548508,
       "required": true
     },
     {
@@ -841,7 +842,7 @@
     {
       "_name": "Naturalist",
       "projectID": 627986,
-      "fileID": 4500627,
+      "fileID": 4553932,
       "required": true
     },
     {
@@ -967,7 +968,7 @@
     {
       "_name": "Runes [Fabric]",
       "projectID": 775518,
-      "fileID": 4514193,
+      "fileID": 4543585,
       "required": true
     },
     {
@@ -1003,13 +1004,13 @@
     {
       "_name": "Spell Engine",
       "projectID": 807653,
-      "fileID": 4514170,
+      "fileID": 4555810,
       "required": true
     },
     {
       "_name": "Spell Power Attributes [Fabric]",
       "projectID": 771265,
-      "fileID": 4515384,
+      "fileID": 4543602,
       "required": true
     },
     {
@@ -1045,19 +1046,19 @@
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4521851,
+      "fileID": 4555794,
       "required": true
     },
     {
       "_name": "Terralith",
       "projectID": 513688,
-      "fileID": 4167132,
+      "fileID": 4549496,
       "required": true
     },
     {
       "_name": "The Graveyard (FABRIC)",
       "projectID": 514468,
-      "fileID": 4100322,
+      "fileID": 4555248,
       "required": true
     },
     {
@@ -1069,7 +1070,7 @@
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4520245,
+      "fileID": 4533987,
       "required": true
     },
     {
@@ -1082,12 +1083,6 @@
       "_name": "ToolTipFix",
       "projectID": 411557,
       "fileID": 4087782,
-      "required": true
-    },
-    {
-      "_name": "Towns and Towers",
-      "projectID": 626761,
-      "fileID": 4102867,
       "required": true
     },
     {
@@ -1117,7 +1112,7 @@
     {
       "_name": "Wizards [Fabric]",
       "projectID": 734325,
-      "fileID": 4514246,
+      "fileID": 4544648,
       "required": true
     },
     {
@@ -1135,19 +1130,19 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4523581,
+      "fileID": 4544616,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4492931,
+      "fileID": 4538265,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4492956,
+      "fileID": 4536624,
       "required": true
     },
     {
