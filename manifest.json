@@ -25,7 +25,7 @@
       "_name": "Architectury API (Fabric/Forge)",
       "_type": "API",
       "projectID": 419699,
-      "fileID": 4521272,
+      "fileID": 4555748,
       "required": true
     },
     {
@@ -39,14 +39,14 @@
       "_name": "BCLib",
       "_type": "API",
       "projectID": 495191,
-      "fileID": 4393099,
+      "fileID": 4572719,
       "required": true
     },
     {
       "_name": "Bookshelf",
       "_type": "API",
       "projectID": 228525,
-      "fileID": 4426590,
+      "fileID": 4556696,
       "required": true
     },
     {
@@ -67,14 +67,14 @@
       "_name": "Cloth Config API (Fabric/Forge)",
       "_type": "API",
       "projectID": 348521,
-      "fileID": 3972420,
+      "fileID": 4633414,
       "required": true
     },
     {
       "_name": "Fabric Language Kotlin",
       "_type": "API",
       "projectID": 308769,
-      "fileID": 4507659,
+      "fileID": 4628045,
       "required": true
     },
     {
@@ -115,7 +115,7 @@
       "_name": "Moonlight Lib",
       "_type": "API",
       "projectID": 499980,
-      "fileID": 4545413,
+      "fileID": 4620028,
       "required": true
     },
     {
@@ -260,7 +260,7 @@
     {
       "_name": "Ad Astra!",
       "projectID": 635042,
-      "fileID": 4452051,
+      "fileID": 4643667,
       "required": true
     },
     {
@@ -314,13 +314,13 @@
     {
       "_name": "AttributeFix",
       "projectID": 280510,
-      "fileID": 4436597,
+      "fileID": 4635475,
       "required": true
     },
     {
       "_name": "Auto Third Person",
       "projectID": 297818,
-      "fileID": 3922616,
+      "fileID": 4568181,
       "required": true
     },
     {
@@ -386,19 +386,19 @@
     {
       "_name": "Better Statistics Screen (Fabric)",
       "projectID": 667464,
-      "fileID": 4551864,
+      "fileID": 4595391,
       "required": true
     },
     {
       "_name": "BetterEnd",
       "projectID": 413596,
-      "fileID": 4539997,
+      "fileID": 4572737,
       "required": true
     },
     {
       "_name": "BetterNether",
       "projectID": 311377,
-      "fileID": 4393102,
+      "fileID": 4572724,
       "required": true
     },
     {
@@ -416,7 +416,7 @@
     {
       "_name": "Brazier",
       "projectID": 402616,
-      "fileID": 3922677,
+      "fileID": 4617761,
       "required": true
     },
     {
@@ -428,13 +428,13 @@
     {
       "_name": "Chat Heads",
       "projectID": 407206,
-      "fileID": 4520413,
+      "fileID": 4590665,
       "required": true
     },
     {
       "_name": "Chipped",
       "projectID": 456956,
-      "fileID": 4463478,
+      "fileID": 4558848,
       "required": true
     },
     {
@@ -446,7 +446,7 @@
     {
       "_name": "CleanCut",
       "projectID": 392805,
-      "fileID": 3950652,
+      "fileID": 4574770,
       "required": true
     },
     {
@@ -482,7 +482,7 @@
     {
       "_name": "Create Fabric",
       "projectID": 624165,
-      "fileID": 4537370,
+      "fileID": 4622426,
       "required": true
     },
     {
@@ -546,12 +546,6 @@
       "required": true
     },
     {
-      "_name": "Global Packs",
-      "projectID": 317134,
-      "fileID": 4175600,
-      "required": true
-    },
-    {
       "_name": "Eating Animation [Fabric]",
       "projectID": 527023,
       "fileID": 4413888,
@@ -608,7 +602,7 @@
     {
       "_name": "Fabric Waystones",
       "projectID": 410902,
-      "fileID": 4426434,
+      "fileID": 4567225,
       "required": true
     },
     {
@@ -638,7 +632,7 @@
     {
       "_name": "Galosphere",
       "projectID": 631098,
-      "fileID": 4397800,
+      "fileID": 4574837,
       "required": true
     },
     {
@@ -686,7 +680,7 @@
     {
       "_name": "Incendium",
       "projectID": 591388,
-      "fileID": 4105239,
+      "fileID": 4452501,
       "required": true
     },
     {
@@ -720,15 +714,15 @@
       "required": true
     },
     {
-      "_name": "Iris Shaders",
-      "projectID": 455508,
-      "fileID": 4385033,
-      "required": true
-    },
-    {
       "_name": "Item Model Fix (Fabric)",
       "projectID": 399798,
       "fileID": 3854720,
+      "required": true
+    },
+    {
+      "_name": "Knaves' Needs",
+      "projectID": 813527,
+      "fileID": 4525927,
       "required": true
     },
     {
@@ -860,7 +854,7 @@
     {
       "_name": "Nullscape",
       "projectID": 570354,
-      "fileID": 3862219,
+      "fileID": 4558958,
       "required": true
     },
     {
@@ -926,7 +920,7 @@
     {
       "_name": "Raised",
       "projectID": 570368,
-      "fileID": 4457441,
+      "fileID": 4630977,
       "required": true
     },
     {
@@ -938,7 +932,7 @@
     {
       "_name": "Roughly Enough Items Fabric/Forge (REI)",
       "projectID": 310111,
-      "fileID": 4440718,
+      "fileID": 4644013,
       "required": true
     },
     {
@@ -978,6 +972,12 @@
       "required": true
     },
     {
+      "_name": "Simply Swords [Fabric & Forge]",
+      "projectID": 659887,
+      "fileID": 4553235,
+      "required": true
+    },
+    {
       "_name": "Skin Layers 3D (Fabric/Forge)",
       "projectID": 521480,
       "fileID": 4001981,
@@ -1004,7 +1004,7 @@
     {
       "_name": "Spell Engine",
       "projectID": 807653,
-      "fileID": 4555810,
+      "fileID": 4565272,
       "required": true
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "_name": "Supplementaries",
       "projectID": 412082,
-      "fileID": 4555794,
+      "fileID": 4615837,
       "required": true
     },
     {
@@ -1070,13 +1070,13 @@
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4533987,
+      "fileID": 4619529,
       "required": true
     },
     {
       "_name": "Tool Stats",
       "projectID": 377109,
-      "fileID": 3944167,
+      "fileID": 4584153,
       "required": true
     },
     {
@@ -1112,7 +1112,7 @@
     {
       "_name": "Wizards [Fabric]",
       "projectID": 734325,
-      "fileID": 4544648,
+      "fileID": 4559755,
       "required": true
     },
     {
@@ -1130,19 +1130,19 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4544616,
+      "fileID": 4576228,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4538265,
+      "fileID": 4593178,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4536624,
+      "fileID": 4594981,
       "required": true
     },
     {
