@@ -489,7 +489,7 @@
       "_name": "Create Crafts & Additions",
       "projectID": 439890,
       "fileID": 4528919,
-      "required": true
+      "required": false
     },
     {
       "_name": "Creatures From The Snow! [Fabric]",
