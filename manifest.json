@@ -984,12 +984,6 @@
       "required": true
     },
     {
-      "_name": "Sodium",
-      "projectID": 394468,
-      "fileID": 3957319,
-      "required": true
-    },
-    {
       "_name": "Sound Physics Remastered",
       "projectID": 535489,
       "fileID": 4199799,
