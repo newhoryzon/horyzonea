@@ -618,6 +618,12 @@
       "required": true
     },
     {
+      "_name": "Farmer's Delight [Fabric]",
+      "projectID": 482834,
+      "fileID": 4634237,
+      "required": true
+    },
+    {
       "_name": "ForgetMeChunk",
       "projectID": 591317,
       "fileID": 3828148,
