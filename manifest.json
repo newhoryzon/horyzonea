@@ -81,11 +81,12 @@
       "_name": "Iris & Oculus Flywheel Compat",
       "_type": "API",
       "projectID": 659897,
-      "fileID": 4421346,
+      "fileID": 4631185,
       "required": true
     },
     {
       "_name": "GeckoLib",
+      "_type": "API",
       "projectID": 388172,
       "fileID": 4407239,
       "required": true
@@ -416,7 +417,7 @@
     {
       "_name": "Brazier",
       "projectID": 402616,
-      "fileID": 4617761,
+      "fileID": 3922677,
       "required": true
     },
     {
@@ -477,6 +478,12 @@
       "_name": "Couplings",
       "projectID": 311120,
       "fileID": 3912405,
+      "required": true
+    },
+    {
+      "_name": "Create Enchantment Industry Fabric",
+      "projectID": 876129,
+      "fileID": 4629410,
       "required": true
     },
     {
