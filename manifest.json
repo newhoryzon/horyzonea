@@ -74,7 +74,7 @@
       "_name": "Fabric Language Kotlin",
       "_type": "API",
       "projectID": 308769,
-      "fileID": 4628045,
+      "fileID": 4654791,
       "required": true
     },
     {
@@ -210,28 +210,21 @@
       "_name": "Enchanted Armors",
       "_type": "RSC",
       "projectID": 484261,
-      "fileID": 4322343,
+      "fileID": 4655660,
       "required": true
     },
     {
       "_name": "Enchanted Tools",
       "_type": "RSC",
       "projectID": 413810,
-      "fileID": 4474791,
+      "fileID": 4644255,
       "required": true
     },
     {
       "_name": "Enchanted Weapons",
       "_type": "RSC",
       "projectID": 387040,
-      "fileID": 4343889,
-      "required": true
-    },
-    {
-      "_name": "Tom's Create Storage",
-      "_type": "RSC",
-      "projectID": 776419,
-      "fileID": 4296160,
+      "fileID": 4599508,
       "required": true
     },
     {
@@ -291,7 +284,7 @@
     {
       "_name": "Another Furniture",
       "projectID": 610492,
-      "fileID": 4034011,
+      "fileID": 4675542,
       "required": true
     },
     {
@@ -405,7 +398,7 @@
     {
       "_name": "Blockus",
       "projectID": 312289,
-      "fileID": 4529161,
+      "fileID": 4671264,
       "required": true
     },
     {
@@ -423,13 +416,13 @@
     {
       "_name": "Charm of Undying (Fabric)",
       "projectID": 395547,
-      "fileID": 4521331,
+      "fileID": 4603641,
       "required": true
     },
     {
       "_name": "Chat Heads",
       "projectID": 407206,
-      "fileID": 4590665,
+      "fileID": 4691902,
       "required": true
     },
     {
@@ -483,7 +476,7 @@
     {
       "_name": "Create Enchantment Industry Fabric",
       "projectID": 876129,
-      "fileID": 4629410,
+      "fileID": 4671906,
       "required": true
     },
     {
@@ -495,8 +488,8 @@
     {
       "_name": "Create Crafts & Additions",
       "projectID": 439890,
-      "fileID": 4528919,
-      "required": false
+      "fileID": 4659779,
+      "required": true
     },
     {
       "_name": "Creatures From The Snow! [Fabric]",
@@ -735,7 +728,7 @@
     {
       "_name": "Knaves' Needs",
       "projectID": 813527,
-      "fileID": 4525927,
+      "fileID": 4689302,
       "required": true
     },
     {
@@ -747,7 +740,7 @@
     {
       "_name": "KubeJS",
       "projectID": 238086,
-      "fileID": 4377174,
+      "fileID": 4681929,
       "required": true
     },
     {
@@ -789,7 +782,7 @@
     {
       "_name": "Mine Cells - Dead Cells Mod",
       "projectID": 618790,
-      "fileID": 4501789,
+      "fileID": 4661369,
       "required": true
     },
     {
@@ -819,7 +812,7 @@
     {
       "_name": "MoreMcmeta (Fabric)",
       "projectID": 506079,
-      "fileID": 3879264,
+      "fileID": 4664982,
       "required": true
     },
     {
@@ -831,7 +824,7 @@
     {
       "_name": "Mouse Wheelie (Fabric)",
       "projectID": 317514,
-      "fileID": 4548508,
+      "fileID": 4687712,
       "required": true
     },
     {
@@ -849,7 +842,7 @@
     {
       "_name": "Naturalist",
       "projectID": 627986,
-      "fileID": 4553932,
+      "fileID": 4660373,
       "required": true
     },
     {
@@ -867,13 +860,13 @@
     {
       "_name": "Nullscape",
       "projectID": 570354,
-      "fileID": 4558958,
+      "fileID": 4677633,
       "required": true
     },
     {
       "_name": "Numismatic Overhaul",
       "projectID": 568316,
-      "fileID": 4276405,
+      "fileID": 4660837,
       "required": true
     },
     {
@@ -886,6 +879,12 @@
       "_name": "Oxidized",
       "projectID": 506426,
       "fileID": 3946863,
+      "required": true
+    },
+    {
+      "_name": "Paladins & Priests",
+      "projectID": 856548,
+      "fileID": 4559753,
       "required": true
     },
     {
@@ -915,7 +914,7 @@
     {
       "_name": "Polymorph (Fabric)",
       "projectID": 397434,
-      "fileID": 4119085,
+      "fileID": 4629007,
       "required": true
     },
     {
@@ -939,13 +938,13 @@
     {
       "_name": "Reese's Sodium Options",
       "projectID": 511319,
-      "fileID": 4126247,
+      "fileID": 4666318,
       "required": true
     },
     {
       "_name": "Roughly Enough Items Fabric/Forge (REI)",
       "projectID": 310111,
-      "fileID": 4644013,
+      "fileID": 4690210,
       "required": true
     },
     {
@@ -1011,7 +1010,7 @@
     {
       "_name": "Spell Engine",
       "projectID": 807653,
-      "fileID": 4565272,
+      "fileID": 4653973,
       "required": true
     },
     {
@@ -1059,7 +1058,7 @@
     {
       "_name": "Terralith",
       "projectID": 513688,
-      "fileID": 4549496,
+      "fileID": 4673786,
       "required": true
     },
     {
@@ -1077,7 +1076,7 @@
     {
       "_name": "Tom's Simple Storage Mod (Fabric)",
       "projectID": 396826,
-      "fileID": 4619529,
+      "fileID": 4649851,
       "required": true
     },
     {
@@ -1137,19 +1136,19 @@
     {
       "_name": "WTHIT",
       "projectID": 440979,
-      "fileID": 4576228,
+      "fileID": 4691992,
       "required": true
     },
     {
       "_name": "Xaero's Minimap",
       "projectID": 263420,
-      "fileID": 4593178,
+      "fileID": 4685506,
       "required": true
     },
     {
       "_name": "Xaero's World Map",
       "projectID": 317780,
-      "fileID": 4594981,
+      "fileID": 4685550,
       "required": true
     },
     {
